@@ -1,3 +1,4 @@
+# Single Perceptron Example (ATD E10.01)
 '''
 Definition: For a single perceptron, find an assignment to the parameters w0, w1, w2 such that the
 perceptron implements the boolean function y(x1, x2) = x1 ^ ¬x2 for binary variables x1
@@ -32,7 +33,6 @@ def learningFunction(x, t, w, n):
             dW = n * error * x[i]
             w[i] += dW
     return w
-
 
 if __name__ == '__main__':
     '''
