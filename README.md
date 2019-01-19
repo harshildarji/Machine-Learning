@@ -5,3 +5,4 @@
 - [Linear Regression](https://github.com/harshildarji/Machine-Learning-Practise-Notebooks/blob/master/linear_regression.ipynb)
 - [Tensorflow MNIST](https://github.com/harshildarji/Machine-Learning-Practise-Notebooks/blob/master/tensorflow_mnist.ipynb)
 - [Neural Network from scratch](https://github.com/harshildarji/ML-Practise/blob/master/neural_network_from_scratch.py)
+- [Single Perceptron Example](https://github.com/harshildarji/ML-Practise/blob/master/single_perceptron_example.py)
