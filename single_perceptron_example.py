@@ -49,5 +49,5 @@ if __name__ == '__main__':
     n = 0.5
     for i in range(4):
         w = learningFunction([1, x1[i], x2[i]], t[i], [0.5, 0.5, 0.5], n)
-        y = (w[0]) + (w[1] * x1[i]) + (w[2] * x2[i])
+        y = heaviside((w[0]) + (w[1] * x1[i]) + (w[2] * x2[i]))
         print('For X1 = {}, X2 = {}: w0 = {:.2f}, w1 = {:.2f}, w2 = {:.2f} | y = {}, t = {}'.format(x1[i], x2[i], w[0], w[1], w[2], y, t[i]))
