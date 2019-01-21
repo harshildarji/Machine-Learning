@@ -20,13 +20,18 @@ def heaviside(y):
 
 # learning function
 def learningFunction(x, t, w, n):
-    for i in range(4):
-        y = (w[0] * x[0][i]) + (w[1] * x[1][i]) + (w[2] * x[2][i])
-        error = t[i] - heaviside(y)
+    while True:
+        y = (w[0] * x[0]) + (w[1] * x[1]) + (w[2] * x[2])
+        error = t - heaviside(y)
 
-        for j in range(3):
-            dW = n * error * x[j][i]
-            w[j] += dW
+        # if error is zero, convergence reached, Break the loop!
+        if error == 0:
+            break
+
+        # if error is not zero, update the weights
+        for i in range(3):
+            dW = n * error * x[i]
+            w[i] += dW
     return w
 
 if __name__ == '__main__':
@@ -38,13 +43,11 @@ if __name__ == '__main__':
     learning rate: n = 0.5
     initial weights: w0 = 0.5, w1 = 0.5, w2 = 0.5
     '''
-    x0 = [1, 1, 1, 1]
     x1 = [0, 0, 1, 1]
     x2 = [0, 1, 0, 1]
     t = [0, 0, 1, 0]
-    n = 0.4
-    w = learningFunction([x0, x1, x2], t, [0.5, 1, -1], n)
-    print('w0 = {:.2f}, w1 = {:.2f}, w2 = {:.2f}'.format(w[0], w[1], w[2]))
+    n = 0.5
     for i in range(4):
+        w = learningFunction([1, x1[i], x2[i]], t[i], [0.5, 0.5, 0.5], n)
         y = heaviside((w[0]) + (w[1] * x1[i]) + (w[2] * x2[i]))
-        print('For X1 = {}, X2 = {} | y = {:.2f}, t = {}'.format(x1[i], x2[i], y, t[i]))
+        print('For X1 = {}, X2 = {}: w0 = {:.2f}, w1 = {:.2f}, w2 = {:.2f} | y = {}, t = {}'.format(x1[i], x2[i], w[0], w[1], w[2], y, t[i]))
