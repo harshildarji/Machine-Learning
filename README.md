@@ -8,3 +8,4 @@
 - [Single Perceptron Example](https://github.com/harshildarji/ML-Practise/blob/master/single_perceptron_example.py)
 - TF Tutorials - Learn and use ML
   - [Train your first neural network: basic classification](https://github.com/harshildarji/ML-Practise/blob/master/TF%20Tutorials%20-%20Learn%20and%20use%20ML/basic_classification.ipynb)
+- [Gensim Word2Vec Example](https://github.com/harshildarji/ML-Practise/blob/master/gensim_word2vec.ipynb)
