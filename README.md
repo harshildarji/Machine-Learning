@@ -8,5 +8,6 @@
 - [Single Perceptron Example](https://github.com/harshildarji/ML-Practise/blob/master/single_perceptron_example.py)
 - TF Tutorials - Learn and use ML
   - [Train your first neural network: basic classification](https://github.com/harshildarji/ML-Practise/blob/master/TF%20Tutorials%20-%20Learn%20and%20use%20ML/basic_classification.ipynb)
+  - [Text classification with movie reviews](https://github.com/harshildarji/ML-Practise/blob/master/TF%20Tutorials%20-%20Learn%20and%20use%20ML/text_classification.ipynb)
 - [Gensim Word2Vec Example](https://github.com/harshildarji/ML-Practise/blob/master/gensim_word2vec.ipynb)
 - [IMDB Sentiment Classification using TF-IDF](https://github.com/harshildarji/ML-Practise/blob/master/IMDB%20Sentiment%20Classification%20using%20TF-IDF/sentiment_analysis.ipynb)
