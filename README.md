@@ -6,7 +6,7 @@
 - [Tensorflow MNIST](https://github.com/harshildarji/Machine-Learning-Practise-Notebooks/blob/master/tensorflow_mnist.ipynb)
 - [Neural Network from scratch](https://github.com/harshildarji/ML-Practise/blob/master/neural_network_from_scratch.py)
 - [Single Perceptron Example](https://github.com/harshildarji/ML-Practise/blob/master/single_perceptron_example.py)
-- TF Tutorials - Learn and use ML
+- [TF Tutorials - Learn and use ML](https://github.com/harshildarji/ML-Practise/tree/master/TF%20Tutorials%20-%20Learn%20and%20use%20ML)
   - [Train your first neural network: basic classification](https://github.com/harshildarji/ML-Practise/blob/master/TF%20Tutorials%20-%20Learn%20and%20use%20ML/basic_classification.ipynb)
   - [Text classification with movie reviews](https://github.com/harshildarji/ML-Practise/blob/master/TF%20Tutorials%20-%20Learn%20and%20use%20ML/text_classification.ipynb)
 - [Gensim Word2Vec Example](https://github.com/harshildarji/ML-Practise/blob/master/gensim_word2vec.ipynb)
