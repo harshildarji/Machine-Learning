@@ -1,2 +1,8 @@
 # IPython Notebook
 .ipynb_checkpoints
+
+# Saved models
+saved_models
+
+# TF-Keras checkpoints
+checkpoints
