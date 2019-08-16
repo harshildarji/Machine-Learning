@@ -14,3 +14,4 @@
   - [Save and restore models](https://github.com/harshildarji/ML-Practise/blob/master/TF%20Tutorials%20-%20Learn%20and%20use%20ML/save_and_restore_models.ipynb)
 - [Gensim Word2Vec Example](https://github.com/harshildarji/ML-Practise/blob/master/gensim_word2vec.ipynb)
 - [IMDB Sentiment Classification using TF-IDF](https://github.com/harshildarji/ML-Practise/blob/master/IMDB%20Sentiment%20Classification%20using%20TF-IDF/sentiment_analysis.ipynb)
+- [Learning Rate Schedules and Adaptive Learning Rate Methods for Deep Learning](https://github.com/harshildarji/ML-Practise/blob/master/learning_rate.ipynb)
