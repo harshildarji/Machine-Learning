@@ -15,3 +15,5 @@
 - [Gensim Word2Vec Example](https://github.com/harshildarji/ML-Practise/blob/master/gensim_word2vec.ipynb)
 - [IMDB Sentiment Classification using TF-IDF](https://github.com/harshildarji/ML-Practise/blob/master/IMDB%20Sentiment%20Classification%20using%20TF-IDF/sentiment_analysis.ipynb)
 - [Learning Rate Schedules and Adaptive Learning Rate Methods for Deep Learning](https://github.com/harshildarji/ML-Practise/blob/master/learning_rate.ipynb)
+- [Time Series Analysis and Forecasting](https://github.com/harshildarji/ML-Practise/tree/master/Time%20Series%20Analysis%20and%20Forecasting)
+  - [Time Series Analysis and Forecasting of Furniture sales](https://github.com/harshildarji/ML-Practise/blob/master/Time%20Series%20Analysis%20and%20Forecasting/furniture_sales.ipynb)
