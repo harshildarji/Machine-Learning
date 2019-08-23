@@ -12,6 +12,7 @@
   - [Time Series Forecasting with ARIMA](https://github.com/harshildarji/ML-Practise/blob/master/Time%20Series%20Analysis%20and%20Forecasting/superstore_sales_arima.ipynb)
   - [Time Series Forecasting with Prophet](https://github.com/harshildarji/ML-Practise/blob/master/Time%20Series%20Analysis%20and%20Forecasting/superstore_sales_prophet.ipynb)
   - [Apple Stock Price Predictions using FB Prophet](https://github.com/harshildarji/ML-Practise/blob/master/Time%20Series%20Analysis%20and%20Forecasting/apple_stock.ipynb)
+  - [Bitcoin Price Predictions using FB Prophet](https://github.com/harshildarji/ML-Practise/blob/master/Time%20Series%20Analysis%20and%20Forecasting/bitcoin_prices.ipynb)
 - [Miscellaneous](https://github.com/harshildarji/ML-Practise/tree/master/Miscellaneous)
   - [Hyperparameter Tuning](https://github.com/harshildarji/ML-Practise/blob/master/Miscellaneous/hyperparameter_tuning.ipynb)
   - [Reuters - OneVsRestClassifier](https://github.com/harshildarji/ML-Practise/blob/master/Miscellaneous/reuters_one_vs_rest_classifier.ipynb)
