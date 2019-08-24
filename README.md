@@ -8,6 +8,7 @@
   - [Explore overfitting and underfitting](https://github.com/harshildarji/ML-Practise/blob/master/TF%201%20Tutorials/overfitting_and_underfitting.ipynb)
   - [Save and restore models](https://github.com/harshildarji/ML-Practise/blob/master/TF%201%20Tutorials/save_and_restore_models.ipynb)
   - [Introduction to CNNs](https://github.com/harshildarji/ML-Practise/blob/master/TF%201%20Tutorials/cnn_intro.ipynb)
+  - [Intro to word embeddings](https://github.com/harshildarji/ML-Practise/blob/master/TF%201%20Tutorials/word_embeddings.ipynb)
 - [Time Series Analysis and Forecasting](https://github.com/harshildarji/ML-Practise/tree/master/Time%20Series%20Analysis%20and%20Forecasting)
   - [Time Series Forecasting with ARIMA](https://github.com/harshildarji/ML-Practise/blob/master/Time%20Series%20Analysis%20and%20Forecasting/superstore_sales_arima.ipynb)
   - [Time Series Forecasting with Prophet](https://github.com/harshildarji/ML-Practise/blob/master/Time%20Series%20Analysis%20and%20Forecasting/superstore_sales_prophet.ipynb)

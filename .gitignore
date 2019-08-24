@@ -12,3 +12,6 @@ datasets
 
 # API key
 alphavantage.txt
+
+# Saved embeddings
+embeddings
