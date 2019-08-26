@@ -10,6 +10,7 @@
   - [Introduction to CNNs](https://github.com/harshildarji/ML-Practise/blob/master/TF%201%20Tutorials/cnn_intro.ipynb)
   - [Intro to word embeddings](https://github.com/harshildarji/ML-Practise/blob/master/TF%201%20Tutorials/word_embeddings.ipynb)
   - [Image classification](https://github.com/harshildarji/ML-Practise/blob/master/TF%201%20Tutorials/image_classification.ipynb)
+  - [TensorFlow Hub with Keras](https://github.com/harshildarji/ML-Practise/blob/master/TF%201%20Tutorials/tfhub_keras.ipynb)
 - [Time Series Analysis and Forecasting](https://github.com/harshildarji/ML-Practise/tree/master/Time%20Series%20Analysis%20and%20Forecasting)
   - [Time Series Forecasting with ARIMA](https://github.com/harshildarji/ML-Practise/blob/master/Time%20Series%20Analysis%20and%20Forecasting/superstore_sales_arima.ipynb)
   - [Time Series Forecasting with Prophet](https://github.com/harshildarji/ML-Practise/blob/master/Time%20Series%20Analysis%20and%20Forecasting/superstore_sales_prophet.ipynb)
@@ -25,3 +26,4 @@
   - [Single Perceptron Example](https://github.com/harshildarji/ML-Practise/blob/master/Miscellaneous/single_perceptron_example.py)
   - [Gensim Word2Vec Example](https://github.com/harshildarji/ML-Practise/blob/master/Miscellaneous/gensim_word2vec.ipynb)
   - [Learning Rate Schedules and Adaptive Learning Rate Methods for Deep Learning](https://github.com/harshildarji/ML-Practise/blob/master/Miscellaneous/learning_rate.ipynb)
+  - [Anomaly Detection for Dummies](https://github.com/harshildarji/ML-Practise/blob/master/Miscellaneous/anomaly_detection.ipynb)
