@@ -1,4 +1,4 @@
-# Machine Learning Practise
+# Machine Learning Practise [![Total alerts](https://img.shields.io/lgtm/alerts/g/harshildarji/ML-Practise.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/harshildarji/ML-Practise/alerts/)
 - [IMDB Sentiment Classification using TF-IDF](https://github.com/harshildarji/ML-Practise/tree/master/IMDB%20Sentiment%20Classification%20using%20TF-IDF)
   - [Sentiment Analysis](https://github.com/harshildarji/ML-Practise/blob/master/IMDB%20Sentiment%20Classification%20using%20TF-IDF/sentiment_analysis.ipynb)
 - [TF 1 Tutorials](https://github.com/harshildarji/ML-Practise/tree/master/TF%201%20Tutorials)
