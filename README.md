@@ -11,6 +11,8 @@
   - [Intro to word embeddings](https://github.com/harshildarji/ML-Practise/blob/master/TF%201%20Tutorials/word_embeddings.ipynb)
   - [Image classification](https://github.com/harshildarji/ML-Practise/blob/master/TF%201%20Tutorials/image_classification.ipynb)
   - [TensorFlow Hub with Keras](https://github.com/harshildarji/ML-Practise/blob/master/TF%201%20Tutorials/tfhub_keras.ipynb)
+- [TF 2 Tutorials](https://github.com/harshildarji/ML-Practise/tree/master/TF%202%20Tutorials)
+  - [Image segmentation](https://github.com/harshildarji/ML-Practise/blob/master/TF%202%20Tutorials/image_segmentation.ipynb)
 - [Time Series Analysis and Forecasting](https://github.com/harshildarji/ML-Practise/tree/master/Time%20Series%20Analysis%20and%20Forecasting)
   - [Time Series Forecasting with ARIMA](https://github.com/harshildarji/ML-Practise/blob/master/Time%20Series%20Analysis%20and%20Forecasting/superstore_sales_arima.ipynb)
   - [Time Series Forecasting with Prophet](https://github.com/harshildarji/ML-Practise/blob/master/Time%20Series%20Analysis%20and%20Forecasting/superstore_sales_prophet.ipynb)
