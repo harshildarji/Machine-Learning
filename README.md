@@ -17,6 +17,7 @@
   - [Image segmentation](https://github.com/harshildarji/ML-Practise/blob/master/TF%202%20Tutorials/image_segmentation.ipynb)
   - [Text classification with an RNN](https://github.com/harshildarji/ML-Practise/blob/master/TF%202%20Tutorials/text_classification_rnn.ipynb)
   - [Premade Estimators](https://github.com/harshildarji/ML-Practise/blob/master/TF%202%20Tutorials/premade_estimators.ipynb)
+  - [Build a linear model with Estimators](https://github.com/harshildarji/ML-Practise/blob/master/TF%202%20Tutorials/linear.ipynb)
 - [Time Series Analysis and Forecasting](https://github.com/harshildarji/ML-Practise/tree/master/Time%20Series%20Analysis%20and%20Forecasting)
   - [Time Series Forecasting with ARIMA](https://github.com/harshildarji/ML-Practise/blob/master/Time%20Series%20Analysis%20and%20Forecasting/superstore_sales_arima.ipynb)
   - [Time Series Forecasting with Prophet](https://github.com/harshildarji/ML-Practise/blob/master/Time%20Series%20Analysis%20and%20Forecasting/superstore_sales_prophet.ipynb)
