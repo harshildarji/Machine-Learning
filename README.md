@@ -20,6 +20,7 @@
   - [Build a linear model with Estimators](https://github.com/harshildarji/ML-Practise/blob/master/TF%202%20Tutorials/linear.ipynb)
   - [Boosted Trees](https://github.com/harshildarji/ML-Practise/blob/master/TF%202%20Tutorials/boosted_trees.ipynb)
   - [Univariate Time series forecasting using RNN](https://github.com/harshildarji/ML-Practise/blob/master/TF%202%20Tutorials/univariate_time_series_rnn.ipynb)
+  - [Text generation with an RNN](https://github.com/harshildarji/ML-Practise/blob/master/TF%202%20Tutorials/text_generation.ipynb)
 - [Time Series Analysis and Forecasting](https://github.com/harshildarji/ML-Practise/tree/master/Time%20Series%20Analysis%20and%20Forecasting)
   - [Time Series Forecasting with ARIMA](https://github.com/harshildarji/ML-Practise/blob/master/Time%20Series%20Analysis%20and%20Forecasting/superstore_sales_arima.ipynb)
   - [Time Series Forecasting with Prophet](https://github.com/harshildarji/ML-Practise/blob/master/Time%20Series%20Analysis%20and%20Forecasting/superstore_sales_prophet.ipynb)
