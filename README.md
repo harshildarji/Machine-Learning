@@ -3,6 +3,8 @@
   - [Sentiment Analysis](https://github.com/harshildarji/ML-Practise/blob/master/IMDB%20Sentiment%20Classification%20using%20TF-IDF/sentiment_analysis.ipynb)
 - [Digit Recognizer - Kaggle competition](https://github.com/harshildarji/ML-Practise/tree/master/Digit%20Recognizer)
   - [Digit Recognizer](https://github.com/harshildarji/ML-Practise/blob/master/Digit%20Recognizer/digit_recognizer.ipynb)
+- [PyTorch](https://github.com/harshildarji/ML-Practise/tree/master/PyTorch)
+  - [Building a Neural Network from scratch](https://github.com/harshildarji/ML-Practise/blob/master/PyTorch/neural_network_from_scratch.ipynb)
 - [TF 1 Tutorials](https://github.com/harshildarji/ML-Practise/tree/master/TF%201%20Tutorials)
   - [Train your first neural network: basic classification](https://github.com/harshildarji/ML-Practise/blob/master/TF%201%20Tutorials/basic_classification.ipynb)
   - [Text classification with movie reviews](https://github.com/harshildarji/ML-Practise/blob/master/TF%201%20Tutorials/text_classification.ipynb)
