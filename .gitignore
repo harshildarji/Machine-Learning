@@ -9,6 +9,7 @@ checkpoints
 
 # Datasets
 datasets
+data/
 
 # API key
 alphavantage.txt
