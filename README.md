@@ -9,6 +9,7 @@
   - [RNN - 1 Hidden layer](https://github.com/harshildarji/ML-Practise/blob/master/PyTorch/rnn_one_hidden_layer.ipynb)
   - [RNN - 2 Hidden layer](https://github.com/harshildarji/ML-Practise/blob/master/PyTorch/rnn_two_hidden_layer.ipynb)
   - [TorchScript](https://github.com/harshildarji/ML-Practise/tree/master/PyTorch/TorchScript)
+    - [Intro](https://github.com/harshildarji/ML-Practise/tree/master/PyTorch/TorchScript/Intro)
 - [TF 1 Tutorials](https://github.com/harshildarji/ML-Practise/tree/master/TF%201%20Tutorials)
   - [Train your first neural network: basic classification](https://github.com/harshildarji/ML-Practise/blob/master/TF%201%20Tutorials/basic_classification.ipynb)
   - [Text classification with movie reviews](https://github.com/harshildarji/ML-Practise/blob/master/TF%201%20Tutorials/text_classification.ipynb)
