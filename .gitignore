@@ -16,3 +16,12 @@ alphavantage.txt
 
 # Saved embeddings
 embeddings
+
+# VSCode
+.vscode/
+
+# Face recognition images and video
+known_faces/
+known_faces_id/
+unknown_faces/
+faces.mp4
