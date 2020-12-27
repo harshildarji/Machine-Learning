@@ -13,7 +13,6 @@ FRAME_THICKNESS = 1
 FONT_THICKNESS = 1
 MODEL = "hog"
 
-# video = cv2.VideoCapture(0)
 video = cv2.VideoCapture("faces.mp4")
 
 print("[*] Loading known faces...")
@@ -23,7 +22,7 @@ known_names = []
 
 for name in os.listdir(KNOWN_FACES_DIR):
     for filename in os.listdir(f"{KNOWN_FACES_DIR}/{name}"):
-        encoding = pickle.load(open(f"{name}/{filename}"), "rb")
+        encoding = pickle.load(open(f"{name}/{filename}", "rb"))
         known_faces.append(encoding)
         known_names.append(int(name))
 
