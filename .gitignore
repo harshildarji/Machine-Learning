@@ -28,3 +28,6 @@ known_faces/
 known_faces_id/
 unknown_faces/
 faces.mp4
+
+# Mac
+.DS_Store
