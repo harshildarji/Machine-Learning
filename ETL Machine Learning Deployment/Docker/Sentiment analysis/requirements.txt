@@ -1,0 +1,17 @@
+certifi==2021.5.30
+charset-normalizer==2.0.1
+click==8.0.1
+Flask==2.0.1
+idna==3.2
+itsdangerous==2.0.1
+Jinja2==3.0.1
+joblib==1.0.1
+jsonify==0.5
+MarkupSafe==2.0.1
+numpy==1.21.0
+requests==2.26.0
+scikit-learn==0.24.2
+scipy==1.7.0
+threadpoolctl==2.2.0
+urllib3==1.26.6
+Werkzeug==2.0.1
