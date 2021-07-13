@@ -1,6 +1,8 @@
 # Machine Learning Practise
 - [ETL Machine Learning Deployment](https://github.com/harshildarji/Machine-Learning/tree/master/ETL%20Machine%20Learning%20Deployment)
   - [Docker](https://github.com/harshildarji/Machine-Learning/tree/master/ETL%20Machine%20Learning%20Deployment/Docker)
+    - [Sentiment analysis](https://github.com/harshildarji/Machine-Learning/tree/master/ETL%20Machine%20Learning%20Deployment/Docker/Sentiment%20analysis)
+    - [Breast cancer](https://github.com/harshildarji/Machine-Learning/tree/master/ETL%20Machine%20Learning%20Deployment/Docker/Breast%20cancer)
   - [Heroku](https://github.com/harshildarji/Machine-Learning/tree/master/ETL%20Machine%20Learning%20Deployment/Heroku)
 - [BERT](https://github.com/harshildarji/Machine-Learning/tree/master/BERT)
   - [Named Entity Recognition with BERT](https://github.com/harshildarji/Machine-Learning/blob/master/BERT/ner_with_bert.ipynb)
