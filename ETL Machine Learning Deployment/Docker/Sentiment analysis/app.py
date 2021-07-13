@@ -4,7 +4,8 @@ import requests
 import pickle
 
 import warnings
-warnings.simplefilter('ignore')
+
+warnings.simplefilter("ignore")
 
 
 app = Flask(__name__)
@@ -12,10 +13,7 @@ app = Flask(__name__)
 model = pickle.load(open("model.pkl", "rb"))
 vectorizer = pickle.load(open("vectorizer.pkl", "rb"))
 
-sentiment = {
-    1: "Positive",
-    0: "Negative"
-}
+sentiment = {1: "Positive", 0: "Negative"}
 
 
 @app.route("/", methods=["GET"])
@@ -41,7 +39,9 @@ def analyze():
                 review, output
             )
         else:
-            output = '<b style="color:#999900">Can\'t find sentiment of an EMPTY string.</b>'
+            output = (
+                '<b style="color:#999900">Can\'t find sentiment of an EMPTY string.</b>'
+            )
 
         return render_template("index.html", analyzed_sentence="{}".format(output))
 
