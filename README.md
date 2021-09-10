@@ -59,3 +59,4 @@
   - [Learning Rate Schedules and Adaptive Learning Rate Methods for Deep Learning](https://github.com/harshildarji/ML-Practise/blob/master/Miscellaneous/learning_rate.ipynb)
   - [Anomaly Detection for Dummies](https://github.com/harshildarji/ML-Practise/blob/master/Miscellaneous/anomaly_detection.ipynb)
   - [Text generation using RNN trained on tweets](https://github.com/harshildarji/ML-Practise/blob/master/Miscellaneous/tweet_generation_rnn.ipynb)
+  - [Transformer from scratch](https://github.com/harshildarji/Machine-Learning/blob/master/Miscellaneous/transformers.py)
