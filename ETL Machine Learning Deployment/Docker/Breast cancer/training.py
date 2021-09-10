@@ -1,11 +1,8 @@
 import pickle
-import pandas as pd
-import numpy as np
-import sklearn
 
+import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
-from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
 
 dataset = pd.read_csv("breast_cancer.csv")
 y = dataset["target"]

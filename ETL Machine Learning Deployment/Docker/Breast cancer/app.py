@@ -1,6 +1,7 @@
+import pickle
+
 import pandas as pd
 from flask import Flask, jsonify, request
-import pickle
 
 app = Flask(__name__)
 

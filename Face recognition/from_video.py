@@ -1,11 +1,11 @@
 # Tutorial: https://youtu.be/PdkPI92KSIs?list=PLQVvvaa0QuDcDqgpLLJJM15NpIGNfrKY5
 
-import face_recognition
 import os
-import cv2
 import pickle
 import time
 
+import cv2
+import face_recognition
 
 KNOWN_FACES_DIR = "known_faces_id"
 TOLERANCE = 0.5

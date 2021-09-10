@@ -1,9 +1,9 @@
 # Tutorial: https://youtu.be/535acCxjHCI?list=PLQVvvaa0QuDcDqgpLLJJM15NpIGNfrKY5
 
-import face_recognition
 import os
-import cv2
 
+import cv2
+import face_recognition
 
 KNOWN_FACES_DIR = "known_faces"
 UNKNOWN_FACES_DIR = "unknown_faces"

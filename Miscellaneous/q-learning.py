@@ -4,8 +4,8 @@
 # https://youtu.be/CBTbifYx6a8?list=PLQVvvaa0QuDezJFIOU5wDdfy4e9vdnx-7
 
 import gym
-import numpy as np
 import matplotlib.pyplot as plt
+import numpy as np
 
 env = gym.make("MountainCar-v0")
 

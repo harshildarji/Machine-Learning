@@ -1,11 +1,10 @@
 import pickle
+
 import numpy as np
 import pandas as pd
-
-from sklearn.ensemble import ExtraTreesRegressor
-from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import RandomizedSearchCV
+from sklearn.model_selection import train_test_split
 
 print("[+] Preprocessing the dataset...")
 dataset = pd.read_csv("cardata.csv")

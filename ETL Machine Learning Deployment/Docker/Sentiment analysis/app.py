@@ -1,12 +1,9 @@
-from flask import Flask, render_template, request
-import jsonify
-import requests
 import pickle
-
 import warnings
 
-warnings.simplefilter("ignore")
+from flask import Flask, render_template, request
 
+warnings.simplefilter("ignore")
 
 app = Flask(__name__)
 
