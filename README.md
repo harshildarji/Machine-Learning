@@ -6,6 +6,7 @@
   - [Heroku](https://github.com/harshildarji/Machine-Learning/tree/master/ETL%20Machine%20Learning%20Deployment/Heroku)
 - [Transformers](https://github.com/harshildarji/Machine-Learning/tree/master/Transformers)
   - [BERT](https://github.com/harshildarji/Machine-Learning/tree/master/Transformers/BERT)
+    - [Word fill using BERT](https://github.com/harshildarji/Machine-Learning/tree/master/Transformers/BERT/Word%20Fill)
     - [Named Entity Recognition with BERT](https://github.com/harshildarji/Machine-Learning/blob/master/Transformers/BERT/ner_with_bert.ipynb)
     - [German NER on Legal Data using BERT](https://github.com/harshildarji/German-NER-BERT)
   - [PyTorch transformers from scratch](https://github.com/harshildarji/Machine-Learning/blob/master/Transformers/pytorch_transformers_from_scratch.py)
