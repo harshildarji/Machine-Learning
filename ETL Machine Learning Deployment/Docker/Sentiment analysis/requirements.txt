@@ -9,7 +9,7 @@ joblib==1.2.0
 jsonify==0.5
 MarkupSafe==2.0.1
 numpy==1.22.0
-requests==2.31.0
+requests==2.32.0
 scikit-learn==1.0.1
 scipy==1.10.0
 threadpoolctl==2.2.0
