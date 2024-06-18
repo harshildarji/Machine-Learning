@@ -13,5 +13,5 @@ requests==2.31.0
 scikit-learn==1.0.1
 scipy==1.10.0
 threadpoolctl==2.2.0
-urllib3==1.26.6
+urllib3==1.26.19
 Werkzeug==2.3.8
