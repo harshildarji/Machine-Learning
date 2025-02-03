@@ -70,4 +70,4 @@ webencodings==0.5.1
 Werkzeug==3.0.3
 widgetsnbextension==3.5.1
 wincertstore==0.2
-zipp==3.4.0
+zipp==3.19.1
