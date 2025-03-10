@@ -10,7 +10,7 @@ jsonify==0.5
 MarkupSafe==2.0.1
 numpy==1.22.0
 requests==2.32.0
-scikit-learn==1.0.1
+scikit-learn==1.5.1
 scipy==1.10.0
 threadpoolctl==2.2.0
 urllib3==1.26.6
